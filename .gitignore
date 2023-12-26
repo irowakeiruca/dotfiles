@@ -23,6 +23,8 @@
 !/.config/wezterm/**
 !/.config/wlogout
 !/.config/wlogout/**
+!/.config/wofi
+!/.config/wofi/**
 !/.config/xremap
 !/.config/xremap/**
 
