@@ -9,6 +9,7 @@
 !/.config/fcitx5/**
 !/.config/hypr
 !/.config/hypr/**
+!/.config/kdeglobals
 !/.config/mako
 !/.config/mako/**
 !/.config/nvim
