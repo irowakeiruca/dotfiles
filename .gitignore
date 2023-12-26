@@ -7,6 +7,8 @@
 !/.config
 !/.config/fcitx5
 !/.config/fcitx5/**
+!/.config/gtk-3.0
+!/.config/gtk-3.0/**
 !/.config/hypr
 !/.config/hypr/**
 !/.config/kdeglobals
@@ -14,6 +16,8 @@
 !/.config/mako/**
 !/.config/nvim
 !/.config/nvim/**
+!/.config/qt5ct
+!/.config/qt5ct/**
 !/.config/sheldon
 !/.config/sheldon/**
 !/.config/starship.toml
