@@ -4,6 +4,8 @@
 
 ### not ignore ###
 !/.zshrc
+!/.config/
+!/.config/**
 !/.config/hypr
 !/.config/hypr/**
 
