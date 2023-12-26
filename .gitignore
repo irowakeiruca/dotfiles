@@ -5,10 +5,25 @@
 ### not ignore ###
 !/.zshrc
 !/.config
+!/.config/fcitx5
+!/.config/fcitx5/**
 !/.config/hypr
 !/.config/hypr/**
+!/.config/mako
+!/.config/mako/**
 !/.config/nvim
 !/.config/nvim/**
+!/.config/sheldon
+!/.config/sheldon/**
+!/.config/starship.toml
+!/.config/waybar
+!/.config/waybar/**
+!/.config/wezterm
+!/.config/wezterm/**
+!/.config/wlogout
+!/.config/wlogout/**
+!/.config/xremap
+!/.config/xremap/**
 
 !.gitignore
 
