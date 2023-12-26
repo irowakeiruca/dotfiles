@@ -556,3 +556,4 @@ Log file created at: 2023-12-27 03:06:27 19143 140570348201920
 2023-12-27 03:06:27 19143 140570348201920 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
 2023-12-27 03:06:27 19143 140570348201920 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
 2023-12-27 03:06:27 19143 140570348201920 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-27 03:16:50 19143 140570253063872 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.

@@ -5,6 +5,7 @@
 ### not ignore ###
 !/.zshrc
 !/.config/hypr
+!/.config/hypr/**
 
 !.gitignore
 
