@@ -43,32 +43,30 @@ vim.api.nvim_create_autocmd({ 'BufEnter', 'BufWinEnter' }, {
 })
 
 vim.o.clipboard = 'unnamedplus'
-vim.o.ambiwidth = 'double'
+--vim.o.ambiwidth = 'double'
 vim.o.pumblend = 20
 vim.o.winblend = 30
 vim.o.softtabstop = 4
 vim.o.smartindent = true
 
 vim.o.visualbell = true
---vim.o.number = true
 vim.o.showmatch = true
 vim.o.matchtime = 1
 
 -- search
 vim.o.incsearch = true
-vim.o.ignorecase = true
-vim.o.smartcase = true
-vim.o.hlsearch = true
+--vim.o.hlsearch = true
 vim.keymap.set('n', '<Esc><Esc>', ':nohl<CR>', { noremap = true, silent = true })
+
+vim.o.undofile = true
+vim.o.undodir = vim.fn.stdpath('cache') .. '/undo'
 
 -- manipulation
 vim.g.mapleader = ' '
 vim.o.ttimeout = true
 vim.o.ttimeoutlen = 50
 
-vim.o.undofile = true
-vim.o.undodir = vim.fn.stdpath('cache') .. '/undo'
-
+vim.api.nvim_set_var('mapleader', ' ')
 vim.keymap.set('n', 'j', 'gj', { noremap = true })
 vim.keymap.set('n', 'k', 'gk', { noremap = true })
 vim.keymap.set('n', 'gj', 'j', { noremap = true })
@@ -77,9 +75,17 @@ vim.keymap.set('i', 'jj', '<Esc>', { noremap = true })
 vim.keymap.set('n', 'x', '"_x')
 vim.keymap.set('n', 'X', '"_X')
 vim.keymap.set('n', 's', '"_s')
-vim.keymap.set("n", "<C-n>", ":bnext<Return>", { noremap = true, silent = true })
-vim.keymap.set("n", "<C-b>", ":bprevious<Return>", { noremap = true, silent = true })
-vim.api.nvim_set_var('mapleader', ' ')
+vim.keymap.set("n", "<C-k>", ":bnext<Return>", { noremap = true, silent = true })
+vim.keymap.set("n", "<C-j>", ":bprevious<Return>", { noremap = true, silent = true })
+vim.keymap.set('n', '<Leader>s', ':split<Return><C-w>w', { noremap = true, silent = true })
+vim.keymap.set('n', '<Leader>v', ':vsplit<Return><C-w>w', { noremap = true, silent = true })
+vim.keymap.set('n', '<C-h>', '<C-w>h')
+--vim.keymap.set('n', 'sk', '<C-w>k')
+--vim.keymap.set('n', 'sj', '<C-w>j')
+vim.keymap.set('n', '<C-l>', '<C-w>l')
+vim.keymap.set('n', '<Leader>r', ':source ~/.config/nvim/init.lua<Return>', { noremap = true, silent = true })
+vim.keymap.set('n', '<Leader>w', ':w<Return>', { noremap = true, silent = true })
+vim.keymap.set('n', '<Leader>q', ':q<Return>', { noremap = true, silent = true })
 
 -- plugin manager
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"

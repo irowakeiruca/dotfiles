@@ -1,0 +1,9 @@
+### all ignore ###
+/*
+/.**
+
+### not ignore ###
+!/.zshrc
+
+!.gitignore
+

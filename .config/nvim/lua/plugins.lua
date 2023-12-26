@@ -27,13 +27,13 @@ return {
             require('lualine').setup({
                 options = {
                     icons_enabled = true,
-                    theme = 'horizon',
+                    theme = 'dolphin',
                     disabled_filetypes = {},
                     always_divide_middle = true,
                     colored = true,
                     globalstatus = true,
                     --component_separators = { left = '', right = ''},
-                    --section_separators = { left = '', right = ''},
+                    --section_separators = { left = '', right = '' },
                     refresh = {
                         statusline = 1000,
                         tabline = 1000,
@@ -102,37 +102,40 @@ return {
     {
         'lewis6991/gitsigns.nvim',
         config = function()
-
             require('gitsigns').setup {
-                signs = {
-                    add =          { hl = 'GitSignsAdd',    text = '▎', numhl = 'GitSignsAddNr',    linehl = 'GitSignsAddLn' },
-                    change =       { hl = 'GitSignsChange', text = '▎', numhl = 'GitSignsChangeNr', linehl = 'GitSignsChangeLn' },
-                    delete =       { hl = 'GitSignsDelete', text = '', numhl = 'GitSignsDeleteNr', linehl = 'GitSignsDeleteLn' },
-                    topdelete =    { hl = 'GitSignsDelete', text = '', numhl = 'GitSignsDeleteNr', linehl = 'GitSignsDeleteLn' },
-                    changedelete = { hl = 'GitSignsChange', text = '▎', numhl = 'GitSignsChangeNr', linehl = 'GitSignsChangeLn' },
+                signs                        = {
+                    add = { hl = 'GitSignsAdd', text = '▎', numhl = 'GitSignsAddNr', linehl = 'GitSignsAddLn' },
+                    change = { hl = 'GitSignsChange', text = '▎', numhl = 'GitSignsChangeNr',
+                        linehl = 'GitSignsChangeLn' },
+                    delete = { hl = 'GitSignsDelete', text = '', numhl = 'GitSignsDeleteNr',
+                        linehl = 'GitSignsDeleteLn' },
+                    topdelete = { hl = 'GitSignsDelete', text = '', numhl = 'GitSignsDeleteNr',
+                        linehl = 'GitSignsDeleteLn' },
+                    changedelete = { hl = 'GitSignsChange', text = '▎', numhl = 'GitSignsChangeNr',
+                        linehl = 'GitSignsChangeLn' },
                 },
-                signcolumn = true,  -- Toggle with `:Gitsigns toggle_signs`
-                numhl      = false, -- Toggle with `:Gitsigns toggle_numhl`
-                linehl     = false, -- Toggle with `:Gitsigns toggle_linehl`
-                word_diff  = false, -- Toggle with `:Gitsigns toggle_word_diff`
-                watch_gitdir = {
+                signcolumn                   = true, -- Toggle with `:Gitsigns toggle_signs`
+                numhl                        = false, -- Toggle with `:Gitsigns toggle_numhl`
+                linehl                       = false, -- Toggle with `:Gitsigns toggle_linehl`
+                word_diff                    = false, -- Toggle with `:Gitsigns toggle_word_diff`
+                watch_gitdir                 = {
                     interval = 1000,
                     follow_files = true
                 },
-                attach_to_untracked = true,
-                current_line_blame = false, -- Toggle with `:Gitsigns toggle_current_line_blame`
-                current_line_blame_opts = {
+                attach_to_untracked          = true,
+                current_line_blame           = false, -- Toggle with `:Gitsigns toggle_current_line_blame`
+                current_line_blame_opts      = {
                     virt_text = true,
                     virt_text_pos = 'eol', -- 'eol' | 'overlay' | 'right_align'
                     delay = 1000,
                     ignore_whitespace = false,
                 },
                 current_line_blame_formatter = '<author>, <author_time:%Y-%m-%d> - <summary>',
-                sign_priority = 6,
-                update_debounce = 100,
-                status_formatter = nil, -- Use default
-                max_file_length = 40000, -- Disable if file is longer than this (in lines)
-                preview_config = {
+                sign_priority                = 6,
+                update_debounce              = 100,
+                status_formatter             = nil, -- Use default
+                max_file_length              = 40000, -- Disable if file is longer than this (in lines)
+                preview_config               = {
                     -- Options passed to nvim_open_win
                     border = 'single',
                     style = 'minimal',
@@ -140,7 +143,7 @@ return {
                     row = 0,
                     col = 1
                 },
-                yadm = {
+                yadm                         = {
                     enable = false
                 },
             }
@@ -266,42 +269,49 @@ return {
             vim.opt.shortmess:append 'S'
         end
     },
-    {
-        'petertriho/nvim-scrollbar',
-        dependencies = {
-            'kevinhwang91/nvim-hlslens',
-            'lewis6991/gitsigns.nvim'
-        },
-        event = {
-            "BufWinEnter",
-            "CmdwinLeave",
-            "TabEnter",
-            "TermEnter",
-            "TextChanged",
-            "VimResized",
-            "WinEnter",
-            "WinScrolled",
-        },
-        config = function()
-            require('scrollbar').setup()
-            require('scrollbar.handlers.search').setup()
-            require("scrollbar.handlers.gitsigns").setup()
-        end
-    },
+    --    {
+    --        'petertriho/nvim-scrollbar',
+    --        dependencies = {
+    --            'kevinhwang91/nvim-hlslens',
+    --            'lewis6991/gitsigns.nvim'
+    --        },
+    --        event = {
+    --            "BufWinEnter",
+    --            "CmdwinLeave",
+    --            "TabEnter",
+    --            "TermEnter",
+    --            "TextChanged",
+    --            "VimResized",
+    --            "WinEnter",
+    --            "WinScrolled",
+    --        },
+    --        config = function()
+    --            require('scrollbar').setup()
+    --            require('scrollbar.handlers.search').setup()
+    --            require("scrollbar.handlers.gitsigns").setup()
+    --        end
+    --    },
     {
         'nvim-telescope/telescope.nvim',
         dependencies = {
             'nvim-lua/plenary.nvim',
             'nvim-tree/nvim-web-devicons', 'nvim-lua/plenary.nvim',
-            { 'nvim-telescope/telescope-fzf-native.nvim',
+            {
+                'nvim-telescope/telescope-fzf-native.nvim',
                 build =
-                    'cmake -S. -Bbuild -DCMAKE_BUILD_TYPE=Release && cmake --build build --config Release && cmake --install build --prefix build' }
+                'cmake -S. -Bbuild -DCMAKE_BUILD_TYPE=Release && cmake --build build --config Release && cmake --install build --prefix build'
+            }
         },
 
         config = function()
             local telescope = require('telescope')
 
             telescope.setup({
+                pickers = {
+                    find_files = {
+                        hidden = true
+                    }
+                },
                 defaults = {
                     mappings = {
                         i = {
@@ -421,10 +431,12 @@ return {
             'saadparwaiz1/cmp_luasnip',
             'hrsh7th/cmp-buffer',
             'hrsh7th/cmp-cmdline',
+            'onsails/lspkind.nvim',
         },
         config = function()
-            local cmp = require 'cmp'
-            local luasnip = require 'luasnip'
+            local cmp = require('cmp')
+            local lspkind = require('lspkind')
+            local luasnip = require('luasnip')
             local map = cmp.mapping
 
             local has_words_before = function()
@@ -433,9 +445,10 @@ return {
                     vim.api.nvim_buf_get_lines(0, line - 1, line, true)[1]:sub(col, col):match '%s' == nil
             end
 
-            cmp.setup { completion = {
-                completeopt = 'menu,menuone,noinsert'
-            },
+            cmp.setup {
+                completion = {
+                    completeopt = 'menu,menuone,noinsert'
+                },
                 mapping = map.preset.insert {
                     ['<C-d>'] = map.scroll_docs(-4),
                     ['<C-f>'] = map.scroll_docs(4),
@@ -498,6 +511,22 @@ return {
                         luasnip.lsp_expand(args.body)
                     end,
                 },
+
+                window = {
+                    completion = cmp.config.window.bordered({
+                        border = 'single'
+                    }),
+                    documentation = cmp.config.window.bordered({
+                        border = 'single'
+                    }),
+                },
+                formatting = {
+                    format = lspkind.cmp_format({
+                        mode = 'symbol',
+                        maxwidth = 50,
+                        ellipsis_char = '...',
+                    })
+                },
             }
         end,
     },
@@ -518,5 +547,54 @@ return {
         'windwp/nvim-autopairs',
         event = "InsertEnter",
         opts = {} -- this is equalent to setup({}) function
+    },
+    {
+        'rmagatti/auto-session',
+        config = function()
+            require("auto-session").setup {
+                log_level = "error",
+                auto_session_enable_last_session = true,
+                auto_session_root_dir = vim.fn.stdpath('data') .. "/sessions/",
+                auto_session_enabled = true,
+            }
+        end
+    },
+    {
+        'brenoprata10/nvim-highlight-colors',
+        config = function()
+            require('nvim-highlight-colors').setup {
+            }
+        end
+    },
+	{
+		"echasnovski/mini.animate",
+		event = "VeryLazy",
+		opts = function(_, opts)
+			opts.scroll = {
+				enable = false,
+			}
+		end,
+	},
+    {
+        "folke/noice.nvim",
+        event = "VeryLazy",
+        opts = {
+            -- add any options here
+        },
+
+        dependencies = {
+            -- if you lazy-load any plugin below, make sure to add proper `module="..."` entries
+            "MunifTanjim/nui.nvim",
+            -- OPTIONAL:
+            --   `nvim-notify` is only needed, if you want to use the notification view.
+            --   If not available, we use `mini` as the fallback
+            "rcarriga/nvim-notify",
+        }
+    },
+    {
+        "rcarriga/nvim-notify",
+        opts = {
+            timeout = 2000,
+        },
     },
 }

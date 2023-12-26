@@ -1,0 +1,558 @@
+Log file created at: 2023-11-18 23:01:02 53710 140165888554944
+2023-11-18 23:01:02 53710 140165888554944 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-18 23:01:02 53710 140165888554944 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-18 23:01:02 53710 140165888554944 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-18 23:01:02 53710 140165888554944 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-18 23:01:02 53710 140165888554944 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-18 23:19:39 55681 140648843343808
+2023-11-18 23:19:39 55681 140648843343808 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-18 23:19:39 55681 140648843343808 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-18 23:19:39 55681 140648843343808 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-18 23:19:39 55681 140648843343808 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-18 23:19:39 55681 140648843343808 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-19 00:23:54 55681 140648817723072 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-19 00:23:57 55681 140648817723072 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-19 00:39:34 55681 140648817723072 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-19 03:30:55 55681 140648817723072 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 2h17m16.236921361s
+2023-11-19 04:16:23 55681 140648817723072 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 33m27.991453454s
+2023-11-19 04:24:33 55681 140648817723072 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 11441160388632533394
+2023-11-19 04:26:07 55681 140648817723072 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 5576877442353088795
+Log file created at: 2023-11-19 04:35:09 817 140296159721408
+2023-11-19 04:35:09 817 140296159721408 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-19 04:35:09 817 140296159721408 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-19 04:35:09 817 140296159721408 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-19 04:35:09 817 140296159721408 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-19 04:35:09 817 140296159721408 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-19 05:28:38 817 140296134121152 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 41m29.094850158s
+2023-11-20 20:16:40 817 140296134121152 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 38h36m2.288082393s
+2023-11-20 20:18:36 817 140296134121152 session/session_handler.cc(481) LOG(WARNING) SessionID 14182212316434548759 is not available
+2023-11-20 23:53:06 817 140296134121152 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 3h27m25.488029338s
+2023-11-21 02:44:07 817 140296134121152 session/session_handler.cc(481) LOG(WARNING) SessionID 9742331435928739983 is not available
+Log file created at: 2023-11-21 14:03:57 743 139643118864320
+2023-11-21 14:03:57 743 139643118864320 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-21 14:03:57 743 139643118864320 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-21 14:03:57 743 139643118864320 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-21 14:03:57 743 139643118864320 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-21 14:03:57 743 139643118864320 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-22 03:27:45 743 139643093337792 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 13h17m47.870233868s
+Log file created at: 2023-11-22 03:51:40 743 140278686791616
+2023-11-22 03:51:40 743 140278686791616 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-22 03:51:40 743 140278686791616 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-22 03:51:40 743 140278686791616 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-22 03:51:40 743 140278686791616 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-22 03:51:40 743 140278686791616 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-22 04:25:59 5410 139812505462720
+2023-11-22 04:25:59 5410 139812505462720 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-22 04:25:59 5410 139812505462720 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-22 04:25:59 5410 139812505462720 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-22 04:25:59 5410 139812505462720 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-22 04:25:59 5410 139812505462720 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 02:01:31 767 140696604174272
+2023-11-24 02:01:31 767 140696604174272 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 02:01:31 767 140696604174272 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 02:01:31 767 140696604174272 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 02:01:31 767 140696604174272 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 02:01:31 767 140696604174272 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 02:43:20 843 140487222859712
+2023-11-24 02:43:20 843 140487222859712 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 02:43:20 843 140487222859712 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 02:43:20 843 140487222859712 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 02:43:20 843 140487222859712 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 02:43:21 843 140487222859712 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 03:01:23 742 140104520312768
+2023-11-24 03:01:23 742 140104520312768 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 03:01:23 742 140104520312768 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 03:01:23 742 140104520312768 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 03:01:23 742 140104520312768 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 03:01:23 742 140104520312768 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 03:48:04 18301 139763243272128
+2023-11-24 03:48:04 18301 139763243272128 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 03:48:04 18301 139763243272128 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 03:48:04 18301 139763243272128 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 03:48:04 18301 139763243272128 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 03:48:04 18301 139763243272128 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 03:51:33 19121 139865957775296
+2023-11-24 03:51:33 19121 139865957775296 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 03:51:33 19121 139865957775296 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 03:51:33 19121 139865957775296 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 03:51:33 19121 139865957775296 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 03:51:33 19121 139865957775296 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 03:53:42 19835 140679515289536
+2023-11-24 03:53:42 19835 140679515289536 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 03:53:42 19835 140679515289536 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 03:53:42 19835 140679515289536 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 03:53:42 19835 140679515289536 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 03:53:42 19835 140679515289536 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-24 14:30:15 19835 140679489738432 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 10h6m33.227041316s
+2023-11-24 14:57:03 19835 140679489738432 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 6081833174305462557
+2023-11-24 16:03:42 19835 140679489738432 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 27m26.649271117s
+2023-11-24 16:34:30 19835 140679489738432 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 1415329547071583604
+2023-11-24 16:34:32 19835 140679489738432 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 3819002340796836673
+2023-11-24 16:34:38 19835 140679489738432 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 11567029812064696137
+2023-11-24 16:34:38 19835 140679489738432 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 6341057151990418489
+2023-11-24 16:34:38 19835 140679489738432 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 823074600579220577
+Log file created at: 2023-11-24 16:34:54 39806 140676149278656
+2023-11-24 16:34:54 39806 140676149278656 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 16:34:54 39806 140676149278656 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 16:34:54 39806 140676149278656 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 16:34:54 39806 140676149278656 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 16:34:54 39806 140676149278656 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-24 16:55:09 39806 140676123657920 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-24 17:04:06 39806 140676123657920 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-24 17:04:58 39806 140676123657920 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-24 18:01:01 39806 140676123657920 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-24 19:00:15 39806 140676123657920 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 52m21.094927838s
+2023-11-24 19:10:51 39806 140676123657920 session/session_handler.cc(481) LOG(WARNING) SessionID 3164394577539839757 is not available
+2023-11-24 19:21:30 39806 140676123657920 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 17234657619186664144
+2023-11-24 19:21:30 39806 140676123657920 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 5413412522668136981
+2023-11-24 19:21:30 39806 140676123657920 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 3489624982077657155
+Log file created at: 2023-11-24 19:21:46 64384 139695568955328
+2023-11-24 19:21:46 64384 139695568955328 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 19:21:46 64384 139695568955328 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 19:21:46 64384 139695568955328 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 19:21:46 64384 139695568955328 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 19:21:46 64384 139695568955328 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 19:23:09 65278 140039412426688
+2023-11-24 19:23:09 65278 140039412426688 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 19:23:09 65278 140039412426688 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 19:23:09 65278 140039412426688 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 19:23:09 65278 140039412426688 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 19:23:09 65278 140039412426688 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 19:31:34 748 140603116918720
+2023-11-24 19:31:34 748 140603116918720 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 19:31:34 748 140603116918720 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 19:31:34 748 140603116918720 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 19:31:34 748 140603116918720 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 19:31:34 748 140603116918720 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 19:41:24 814 139942797232064
+2023-11-24 19:41:24 814 139942797232064 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 19:41:24 814 139942797232064 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 19:41:24 814 139942797232064 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 19:41:24 814 139942797232064 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 19:41:24 814 139942797232064 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-24 19:45:04 814 139942771656384 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+Log file created at: 2023-11-24 20:07:36 753 139877964076992
+2023-11-24 20:07:36 753 139877964076992 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 20:07:36 753 139877964076992 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 20:07:36 753 139877964076992 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 20:07:36 753 139877964076992 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 20:07:36 753 139877964076992 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 20:12:13 747 140484269529024
+2023-11-24 20:12:13 747 140484269529024 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 20:12:13 747 140484269529024 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 20:12:13 747 140484269529024 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 20:12:13 747 140484269529024 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 20:12:13 747 140484269529024 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 20:19:06 726 139943923677120
+2023-11-24 20:19:06 726 139943923677120 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 20:19:06 726 139943923677120 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 20:19:06 726 139943923677120 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 20:19:06 726 139943923677120 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 20:19:06 726 139943923677120 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 20:21:29 1369 140250336196544
+2023-11-24 20:21:29 1369 140250336196544 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 20:21:29 1369 140250336196544 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 20:21:29 1369 140250336196544 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 20:21:29 1369 140250336196544 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 20:21:29 1369 140250336196544 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 20:32:07 3178 140308583737280
+2023-11-24 20:32:07 3178 140308583737280 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 20:32:07 3178 140308583737280 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 20:32:07 3178 140308583737280 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 20:32:07 3178 140308583737280 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 20:32:07 3178 140308583737280 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-24 20:36:48 4527 140235478562752
+2023-11-24 20:36:48 4527 140235478562752 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 20:36:48 4527 140235478562752 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 20:36:48 4527 140235478562752 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 20:36:48 4527 140235478562752 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 20:36:48 4527 140235478562752 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-24 23:14:28 4527 140235379832512 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 2h28m40.200352277s
+2023-11-24 23:23:16 4527 140235379832512 session/session_handler.cc(481) LOG(WARNING) SessionID 14568106960013152589 is not available
+2023-11-24 23:23:21 4527 140235379832512 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-24 23:23:24 4527 140235379832512 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-24 23:33:41 4527 140235379832512 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+Log file created at: 2023-11-24 23:50:32 764 140670646364096
+2023-11-24 23:50:32 764 140670646364096 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-24 23:50:32 764 140670646364096 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-24 23:50:32 764 140670646364096 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-24 23:50:32 764 140670646364096 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-24 23:50:32 764 140670646364096 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-25 02:10:11 742 139853385611200
+2023-11-25 02:10:11 742 139853385611200 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-25 02:10:11 742 139853385611200 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-25 02:10:11 742 139853385611200 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-25 02:10:11 742 139853385611200 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-25 02:10:11 742 139853385611200 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-25 02:20:20 2872 139904601880512
+2023-11-25 02:20:20 2872 139904601880512 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-25 02:20:20 2872 139904601880512 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-25 02:20:20 2872 139904601880512 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-25 02:20:20 2872 139904601880512 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-25 02:20:20 2872 139904601880512 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-25 02:25:04 4192 140101906548672
+2023-11-25 02:25:04 4192 140101906548672 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-25 02:25:04 4192 140101906548672 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-25 02:25:04 4192 140101906548672 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-25 02:25:04 4192 140101906548672 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-25 02:25:04 4192 140101906548672 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-25 02:28:39 5356 139718041647040
+2023-11-25 02:28:39 5356 139718041647040 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-25 02:28:39 5356 139718041647040 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-25 02:28:39 5356 139718041647040 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-25 02:28:39 5356 139718041647040 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-25 02:28:39 5356 139718041647040 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-25 02:31:56 6165 139624291280832
+2023-11-25 02:31:56 6165 139624291280832 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-25 02:31:56 6165 139624291280832 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-25 02:31:56 6165 139624291280832 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-25 02:31:56 6165 139624291280832 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-25 02:31:56 6165 139624291280832 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-25 02:57:42 10728 140097572063168
+2023-11-25 02:57:42 10728 140097572063168 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-25 02:57:42 10728 140097572063168 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-25 02:57:42 10728 140097572063168 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-25 02:57:42 10728 140097572063168 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-25 02:57:42 10728 140097572063168 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-25 03:02:41 10728 140097471116992 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-25 20:31:05 10728 140097471116992 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 17h24m23.239505155s
+2023-11-25 23:42:04 10728 140097471116992 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 3481071256398757962
+2023-11-25 23:45:24 10728 140097471116992 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 2h53m18.995408495s
+2023-11-26 00:34:40 10728 140097471116992 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-26 00:36:10 10728 140097471116992 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-26 00:49:54 10728 140097471116992 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-26 01:13:42 10728 140097471116992 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-26 01:13:56 10728 140097471116992 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-26 01:36:32 10728 140097471116992 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-26 02:35:18 10728 140097471116992 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-26 02:39:07 10728 140097471116992 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+Log file created at: 2023-11-26 15:24:06 760 139705594058688
+2023-11-26 15:24:06 760 139705594058688 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-26 15:24:06 760 139705594058688 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-26 15:24:06 760 139705594058688 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-26 15:24:06 760 139705594058688 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-26 15:24:06 760 139705594058688 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-26 16:41:30 760 139705568573120 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 29m24.195672646s
+2023-11-26 17:07:53 760 139705568573120 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 10450911772627050660
+2023-11-26 17:20:03 760 139705568573120 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 1463346825046260077
+2023-11-26 17:20:03 760 139705568573120 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 9486294817800275319
+2023-11-26 17:20:03 760 139705568573120 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 4962018252740610863
+Log file created at: 2023-11-26 17:20:19 7769 139667794950080
+2023-11-26 17:20:19 7769 139667794950080 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-26 17:20:19 7769 139667794950080 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-26 17:20:19 7769 139667794950080 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-26 17:20:19 7769 139667794950080 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-26 17:20:19 7769 139667794950080 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-26 18:08:13 7769 139667697559232 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+Log file created at: 2023-11-26 18:30:37 804 140044690163648
+2023-11-26 18:30:37 804 140044690163648 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-26 18:30:37 804 140044690163648 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-26 18:30:37 804 140044690163648 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-26 18:30:37 804 140044690163648 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-26 18:30:37 804 140044690163648 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-11-26 18:48:30 8903 140474539034560
+2023-11-26 18:48:30 8903 140474539034560 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-26 18:48:30 8903 140474539034560 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-26 18:48:30 8903 140474539034560 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-26 18:48:30 8903 140474539034560 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-26 18:48:30 8903 140474539034560 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-26 20:21:53 8903 140474513442496 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 7606152676974733839
+2023-11-26 20:38:13 8903 140474513442496 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 13m43.388721017s
+Log file created at: 2023-11-27 11:50:04 752 140542281902016
+2023-11-27 11:50:04 752 140542281902016 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-11-27 11:50:04 752 140542281902016 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-11-27 11:50:04 752 140542281902016 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-11-27 11:50:04 752 140542281902016 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-11-27 11:50:04 752 140542281902016 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-11-27 23:50:36 752 140542256445120 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 27m31.162422062s
+2023-11-27 23:51:48 752 140542256445120 session/session_handler.cc(481) LOG(WARNING) SessionID 4766949786010618673 is not available
+2023-11-28 01:22:28 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 01:54:19 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 02:49:06 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 02:53:32 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 02:57:01 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:06:00 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:06:17 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:07:20 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:08:12 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:08:41 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:08:56 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:16:43 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:16:47 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:16:52 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:24:36 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:28:19 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 03:28:26 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 16:51:50 752 140542256445120 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 13h16m14.172978535s
+2023-11-28 17:19:54 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 17:19:56 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 17:20:00 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 17:22:16 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 17:36:12 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 17:36:59 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 17:51:52 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 18:51:32 752 140542256445120 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 44m41.214509527s
+2023-11-28 18:52:33 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 18:58:25 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-28 19:01:40 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-29 01:13:16 752 140542256445120 session/session_handler.cc(481) LOG(WARNING) SessionID 17737111179999260264 is not available
+2023-11-29 04:02:45 752 140542256445120 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 5h50m13.682530219s
+2023-11-29 04:42:43 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-11-29 04:43:48 752 140542256445120 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 9790264374133928967
+2023-11-29 05:14:21 752 140542256445120 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 11m35.590442577s
+2023-12-02 00:54:47 752 140542256445120 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 67h37m25.849105851s
+2023-12-02 00:55:29 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-02 02:22:00 752 140542256445120 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 12m13.191954322s
+2023-12-02 02:54:32 752 140542256445120 session/session_handler.cc(481) LOG(WARNING) SessionID 9846901054043327878 is not available
+2023-12-02 02:54:36 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-02 02:55:47 752 140542256445120 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-02 16:56:00 752 140542256445120 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 13h40m0.311201488s
+2023-12-02 18:20:01 752 140542256445120 session/session_handler.cc(481) LOG(WARNING) SessionID 2235516695074462568 is not available
+2023-12-02 18:43:54 752 140542256445120 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 9980413941794671067
+2023-12-02 18:43:54 752 140542256445120 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 12422341249679210751
+2023-12-02 18:43:54 752 140542256445120 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 13642714701386471649
+Log file created at: 2023-12-02 18:44:10 119986 140081016375232
+2023-12-02 18:44:10 119986 140081016375232 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 18:44:10 119986 140081016375232 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 18:44:10 119986 140081016375232 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 18:44:10 119986 140081016375232 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 18:44:10 119986 140081016375232 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-02 18:45:36 119986 140080990750400 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-02 18:47:52 119986 140080990750400 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+Log file created at: 2023-12-02 18:51:14 122268 140413507385280
+2023-12-02 18:51:14 122268 140413507385280 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 18:51:14 122268 140413507385280 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 18:51:14 122268 140413507385280 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 18:51:14 122268 140413507385280 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 18:51:14 122268 140413507385280 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 18:53:22 124178 140066032138176
+2023-12-02 18:53:22 124178 140066032138176 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 18:53:22 124178 140066032138176 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 18:53:22 124178 140066032138176 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 18:53:22 124178 140066032138176 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 18:53:22 124178 140066032138176 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-02 18:55:31 124178 140066006599360 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-02 19:03:01 124178 140066006599360 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-02 19:03:10 124178 140066006599360 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+Log file created at: 2023-12-02 19:15:18 127418 140488058791872
+2023-12-02 19:15:18 127418 140488058791872 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 19:15:18 127418 140488058791872 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 19:15:18 127418 140488058791872 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 19:15:18 127418 140488058791872 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 19:15:18 127418 140488058791872 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 19:23:04 130158 139822324885440
+2023-12-02 19:23:04 130158 139822324885440 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 19:23:04 130158 139822324885440 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 19:23:04 130158 139822324885440 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 19:23:04 130158 139822324885440 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 19:23:04 130158 139822324885440 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 19:54:58 136369 140485648771008
+2023-12-02 19:54:58 136369 140485648771008 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 19:54:58 136369 140485648771008 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 19:54:58 136369 140485648771008 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 19:54:58 136369 140485648771008 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 19:54:58 136369 140485648771008 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 20:13:57 144326 140427742857152
+2023-12-02 20:13:57 144326 140427742857152 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 20:13:57 144326 140427742857152 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 20:13:57 144326 140427742857152 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 20:13:57 144326 140427742857152 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 20:13:57 144326 140427742857152 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 20:26:30 148541 139683095402432
+2023-12-02 20:26:30 148541 139683095402432 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 20:26:30 148541 139683095402432 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 20:26:30 148541 139683095402432 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 20:26:30 148541 139683095402432 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 20:26:30 148541 139683095402432 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 20:27:10 149159 140650187708352
+2023-12-02 20:27:10 149159 140650187708352 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 20:27:10 149159 140650187708352 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 20:27:10 149159 140650187708352 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 20:27:10 149159 140650187708352 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 20:27:10 149159 140650187708352 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-02 20:28:08 149159 140650162181824 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+Log file created at: 2023-12-02 20:35:16 151830 140089629464512
+2023-12-02 20:35:16 151830 140089629464512 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 20:35:16 151830 140089629464512 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 20:35:16 151830 140089629464512 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 20:35:16 151830 140089629464512 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 20:35:16 151830 140089629464512 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 20:39:37 154340 140342283610048
+2023-12-02 20:39:37 154340 140342283610048 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 20:39:37 154340 140342283610048 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 20:39:37 154340 140342283610048 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 20:39:37 154340 140342283610048 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 20:39:37 154340 140342283610048 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-02 20:40:01 154340 140342258140864 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-02 20:41:36 154340 140342258140864 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-02 20:42:06 154340 140342258140864 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-02 20:42:20 154340 140342258140864 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+Log file created at: 2023-12-02 20:54:47 161372 140676832171968
+2023-12-02 20:54:47 161372 140676832171968 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 20:54:47 161372 140676832171968 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 20:54:47 161372 140676832171968 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 20:54:47 161372 140676832171968 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 20:54:47 161372 140676832171968 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 20:57:32 162914 139995932342208
+2023-12-02 20:57:32 162914 139995932342208 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 20:57:32 162914 139995932342208 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 20:57:32 162914 139995932342208 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 20:57:32 162914 139995932342208 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 20:57:32 162914 139995932342208 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 21:04:26 164608 140320055891904
+2023-12-02 21:04:26 164608 140320055891904 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 21:04:26 164608 140320055891904 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 21:04:26 164608 140320055891904 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 21:04:26 164608 140320055891904 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 21:04:26 164608 140320055891904 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-02 22:09:49 164608 140320030426816 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 12921299554552165512
+2023-12-02 22:09:49 164608 140320030426816 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 17652230667803296804
+2023-12-02 22:09:49 164608 140320030426816 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 369905765725943320
+Log file created at: 2023-12-02 22:10:06 177221 140135346743232
+2023-12-02 22:10:06 177221 140135346743232 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 22:10:06 177221 140135346743232 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 22:10:06 177221 140135346743232 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 22:10:06 177221 140135346743232 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 22:10:06 177221 140135346743232 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 22:11:22 177979 140203769423808
+2023-12-02 22:11:22 177979 140203769423808 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 22:11:22 177979 140203769423808 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 22:11:22 177979 140203769423808 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 22:11:22 177979 140203769423808 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 22:11:22 177979 140203769423808 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 22:13:48 178945 140344168474560
+2023-12-02 22:13:48 178945 140344168474560 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 22:13:48 178945 140344168474560 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 22:13:48 178945 140344168474560 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 22:13:48 178945 140344168474560 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 22:13:48 178945 140344168474560 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-02 22:18:16 180837 140715956561856
+2023-12-02 22:18:16 180837 140715956561856 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 22:18:16 180837 140715956561856 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 22:18:16 180837 140715956561856 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 22:18:16 180837 140715956561856 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 22:18:16 180837 140715956561856 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-02 22:27:27 180837 140715930965696 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-02 22:27:29 180837 140715930965696 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+Log file created at: 2023-12-02 22:41:33 194100 139730315556800
+2023-12-02 22:41:33 194100 139730315556800 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-02 22:41:33 194100 139730315556800 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-02 22:41:33 194100 139730315556800 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-02 22:41:33 194100 139730315556800 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-02 22:41:33 194100 139730315556800 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-02 23:42:26 194100 139730289972928 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 54m52.732324152s
+2023-12-03 02:28:30 194100 139730289972928 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 2h19m3.794527945s
+Log file created at: 2023-12-03 04:03:37 753 140621127210944
+2023-12-03 04:03:37 753 140621127210944 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-03 04:03:37 753 140621127210944 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-03 04:03:37 753 140621127210944 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-03 04:03:37 753 140621127210944 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-03 04:03:37 753 140621127210944 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-03 04:11:29 753 140621101590208 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-03 04:11:31 753 140621101590208 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-03 04:13:01 753 140621101590208 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-03 04:13:53 753 140621101590208 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-03 04:15:51 753 140621101590208 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+Log file created at: 2023-12-08 03:33:58 740 140085260945344
+2023-12-08 03:33:58 740 140085260945344 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-08 03:33:58 740 140085260945344 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-08 03:33:58 740 140085260945344 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-08 03:33:58 740 140085260945344 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-08 03:33:58 740 140085260945344 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-08 21:32:52 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 17h40m46.997384642s
+2023-12-09 02:47:00 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 4h44m8.015172219s
+2023-12-09 02:47:25 740 140085235386048 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-09 03:47:13 740 140085235386048 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-09 03:47:15 740 140085235386048 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-09 05:03:47 740 140085235386048 session/session_handler.cc(481) LOG(WARNING) SessionID 12850865810342290060 is not available
+2023-12-09 05:17:54 740 140085235386048 session/session_handler.cc(481) LOG(WARNING) SessionID 113332222673007557 is not available
+2023-12-09 05:17:54 740 140085235386048 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-09 05:17:54 740 140085235386048 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-10 17:37:56 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 35h38m54.938742583s
+2023-12-10 17:43:44 740 140085235386048 session/session_handler.cc(481) LOG(WARNING) SessionID 7576172551681940183 is not available
+2023-12-10 17:43:44 740 140085235386048 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-10 17:48:56 740 140085235386048 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 9076039759573230365
+2023-12-10 18:03:51 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 10m55.43288261s
+2023-12-10 19:54:13 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 8m21.976434554s
+2023-12-11 00:26:06 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 4h25m53.2705595s
+2023-12-11 00:32:57 740 140085235386048 session/session_handler.cc(481) LOG(WARNING) SessionID 3409836164090138410 is not available
+2023-12-13 23:07:41 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 69h2m34.391010005s
+2023-12-14 02:58:09 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 1h14m28.063991097s
+2023-12-15 19:31:35 740 140085235386048 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 8614027072083768968
+2023-12-15 19:33:44 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 38h44m35.200643102s
+2023-12-19 01:21:18 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 76h59m34.245001636s
+2023-12-19 01:25:19 740 140085235386048 session/session_handler.cc(481) LOG(WARNING) SessionID 17069276158332757495 is not available
+2023-12-20 15:34:31 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 37h34m12.698692073s
+2023-12-20 16:27:13 740 140085235386048 session/session_handler.cc(481) LOG(WARNING) SessionID 3405572496299412160 is not available
+2023-12-20 16:29:33 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 13m1.917047552s
+2023-12-20 16:32:38 740 140085235386048 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-20 16:40:27 740 140085235386048 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-20 17:32:47 740 140085235386048 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-20 17:42:57 740 140085235386048 session/session_converter.cc(1743) LOG(WARNING) ReconstructHistory failed.
+2023-12-20 19:03:07 740 140085235386048 session/session_handler.cc(481) LOG(WARNING) SessionID 10943335212597144729 is not available
+2023-12-20 21:52:53 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 2h8m20.264224277s
+2023-12-21 23:43:03 740 140085235386048 session/session_handler.cc(481) LOG(WARNING) SessionID 7378934492740232089 is not available
+2023-12-21 23:46:34 740 140085235386048 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 25h35m40.894957603s
+2023-12-22 00:43:52 740 140085235386048 session/session_handler.cc(749) LOG(WARNING) [id != 0] cannot find SessionID 3568319603545406334
+Log file created at: 2023-12-22 00:52:32 765 139995169703872
+2023-12-22 00:52:32 765 139995169703872 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-22 00:52:32 765 139995169703872 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-22 00:52:32 765 139995169703872 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-22 00:52:32 765 139995169703872 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-22 00:52:32 765 139995169703872 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-22 00:59:01 815 139630802442176
+2023-12-22 00:59:01 815 139630802442176 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-22 00:59:01 815 139630802442176 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-22 00:59:01 815 139630802442176 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-22 00:59:01 815 139630802442176 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-22 00:59:01 815 139630802442176 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-22 01:04:57 765 139863070296000
+2023-12-22 01:04:57 765 139863070296000 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-22 01:04:57 765 139863070296000 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-22 01:04:57 765 139863070296000 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-22 01:04:57 765 139863070296000 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-22 01:04:57 765 139863070296000 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-22 01:52:28 754 140241893296064
+2023-12-22 01:52:28 754 140241893296064 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-22 01:52:28 754 140241893296064 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-22 01:52:28 754 140241893296064 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-22 01:52:28 754 140241893296064 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-22 01:52:28 754 140241893296064 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-12-22 01:54:40 751 140127119108032
+2023-12-22 01:54:40 751 140127119108032 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-22 01:54:40 751 140127119108032 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-22 01:54:40 751 140127119108032 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-22 01:54:40 751 140127119108032 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-22 01:54:40 751 140127119108032 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
+2023-12-27 01:46:46 751 140127093610176 session/session_handler.cc(630) LOG(WARNING) server went to suspend mode for 118h1m45.077347659s
+2023-12-27 03:01:46 751 140127102002880 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/irowakeiruca/.config/mozc/.session.ipc
+2023-12-27 03:01:46 751 140127102002880 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-12-27 03:01:46 751 140127102002880 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/irowakeiruca/.config/mozc/.session.ipc
+2023-12-27 03:01:46 751 140127102002880 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-12-27 03:01:46 751 140127102002880 client/client.cc(675) LOG(ERROR) Connection failure to session
+2023-12-27 03:01:46 751 140127102002880 session/session_watch_dog.cc(163) LOG(WARNING) Cleanup failed execute PingCommand to check server is running
+2023-12-27 03:01:47 751 140127102002880 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/irowakeiruca/.config/mozc/.session.ipc
+2023-12-27 03:01:47 751 140127102002880 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-12-27 03:01:47 751 140127102002880 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/irowakeiruca/.config/mozc/.session.ipc
+2023-12-27 03:01:47 751 140127102002880 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-12-27 03:01:47 751 140127102002880 client/client.cc(596) LOG(ERROR) Connection failure to session
+2023-12-27 03:01:47 751 140127102002880 session/session_watch_dog.cc(179) LOG(ERROR) Ping command failed, waiting 1s, trial: 0
+2023-12-27 03:01:48 751 140127102002880 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/irowakeiruca/.config/mozc/.session.ipc
+2023-12-27 03:01:48 751 140127102002880 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-12-27 03:01:48 751 140127102002880 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/irowakeiruca/.config/mozc/.session.ipc
+2023-12-27 03:01:48 751 140127102002880 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-12-27 03:01:48 751 140127102002880 client/client.cc(596) LOG(ERROR) Connection failure to session
+2023-12-27 03:01:48 751 140127102002880 session/session_watch_dog.cc(179) LOG(ERROR) Ping command failed, waiting 1s, trial: 1
+2023-12-27 03:01:49 751 140127102002880 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/irowakeiruca/.config/mozc/.session.ipc
+2023-12-27 03:01:49 751 140127102002880 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-12-27 03:01:49 751 140127102002880 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/irowakeiruca/.config/mozc/.session.ipc
+2023-12-27 03:01:49 751 140127102002880 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-12-27 03:01:49 751 140127102002880 client/client.cc(596) LOG(ERROR) Connection failure to session
+2023-12-27 03:01:49 751 140127102002880 session/session_watch_dog.cc(179) LOG(ERROR) Ping command failed, waiting 1s, trial: 2
+2023-12-27 03:01:49 751 140127102002880 session/session_watch_dog.cc(199) LOG(FATAL) Cleanup commands failed. Rasing exception...
+Log file created at: 2023-12-27 03:06:27 19143 140570348201920
+2023-12-27 03:06:27 19143 140570348201920 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-12-27 03:06:27 19143 140570348201920 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-12-27 03:06:27 19143 140570348201920 dictionary/user_dictionary.cc(279) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/irowakeiruca/.config/mozc/user_dictionary.db: No such file or directory
+2023-12-27 03:06:27 19143 140570348201920 dictionary/user_dictionary.cc(518) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-12-27 03:06:27 19143 140570348201920 config/config_handler.cc(206) LOG(ERROR) user://config1.db is not found
