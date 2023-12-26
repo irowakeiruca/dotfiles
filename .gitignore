@@ -7,6 +7,7 @@
 !/.config
 !/.config/hypr
 !/.config/hypr/**
+!/.config/nvim/**
 
 !.gitignore
 
